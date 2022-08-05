@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baronlegacy256
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on any project of entry level to apply what am learning
 - 📫 How to reach me ...
 
