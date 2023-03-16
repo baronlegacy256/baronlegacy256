@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @baronlegacy256
-- 👀 I’m interested in web development
+- 👀 I'm a passionate software developer with intermediate-level expertise in various programming languages, including HTML, CSS,                 Javascipt          (React Js), Redux, React Native,PHP(laravel).
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on any project of entry level to apply what am learning
+- 💞️ I’m looking to collaborate on any project in any of those languages.
 - 📫 How to reach me ...
 
-<!---
-baronlegacy256/baronlegacy256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
