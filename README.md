@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @baronlegacy256
-- 👀 I'm a passionate software developer with intermediate-level expertise in various programming languages, including HTML, CSS,                 Javascipt          (React Js), Redux, React Native,PHP(laravel).
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on any project in any of those languages.
-- 📫 How to reach me ...
+- 👋 Hi, I’m  Aaron Baraka
+- 👀 I'm a passionate software developer with intermediate-level expertise in various programming languages, including HTML, CSS,                 Javascipt          (React Js), Redux, React Native,PHP(laravel), Python, Machine Learning(Tensor Flow), Data science(Pandas,Matplot)
+- 🌱 I’m currently learning more about AI
+- 💞️ I’m open to collaborate on any project in any of those languages.
+
 
 
